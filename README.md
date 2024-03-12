@@ -1,4 +1,4 @@
-A contribution to the Level-Up Society Hackathon by Janusan Lingeswaran, Radhhicka Kishorpouria, Mohammad Patel and Philipp Kant.
+<!-- A contribution to the Level-Up Society Hackathon by Janusan Lingeswaran, Radhhicka Kishorpouria, Mohammad Patel and Philipp Kant.
 
 The overall theme of the hackathon is, as the name suggests, leveraging gamification to improve society. We have chosen the area of learning.
 # Motivation
@@ -9,7 +9,7 @@ the dichotomy between extrinsic and intrinsic motivation is unnecessary, even un
 This gave us an idea to make learning more fun and playful for elementary school students to increase motivation through gamification concepts:
 Learn City, a virtual city representing a school class.
 Each student can create his own character. Customization is an important gamification concept, especially for children.
-Each school subject that the teachers have set gets its own building. In these buildings there are regular lessons, tasks and tests to get experience points or an in-game currency. 
+Each school subject that the teachers have set gets its own building. In these buildings there are regular lessons, tasks and tests to get experience points or an in-game currency.
 This, in turn, can be invested in items, such as clothes to customize the character as desired and, above all, furniture for your own apartment. In the apartment building, all the students' apartments can be found and everyone can visit and admire each other's furniture.
 We tried to pick up as many gamification concepts as possible and integrate them in a natural way into Learn City. In doing so, we followed the list provided by gamified.uk (https://www.gamified.uk/user-types/gamification-mechanics-elements/).
 We used the following concepts:
@@ -32,7 +32,7 @@ To run the project, do following steps :
 3. Run "npm start" to start the server
 4. Go to "http://localhost:8080/elevator.html" on browser
 ## Entering the apartment
-To enter the building you will first have to go into the elevator and then select a room, once you select a room it will take you directly to your room, where you will be able to move around. In order to see the badges you have obtained in the game, you may click the board on the right hand side of the screen to view your badges. 
+To enter the building you will first have to go into the elevator and then select a room, once you select a room it will take you directly to your room, where you will be able to move around. In order to see the badges you have obtained in the game, you may click the board on the right hand side of the screen to view your badges.
 
 ## View the challenges/games
 Open the page: http://localhost/LearnCity/subjects/index.html?s=mathematics
@@ -43,4 +43,6 @@ You may do:
 Then you can the select the challenges you want to do.
 
 
+ -->
 
+Hey There!
